@@ -6,6 +6,34 @@
 
 ## 安装
 
+### 方式一：ClawHub CLI（推荐）
+
+```bash
+# 安装 ClawHub
+npm install -g clawhub
+
+# 搜索技能
+clawhub search element-ui        # 搜索 Element UI 相关技能
+clawhub search vue3              # 搜索 Vue 3 相关技能
+clawhub search uni-app           # 搜索 uni-app 相关技能
+
+# 安装技能
+clawhub install @wufengsheng/element-ui-vue2
+clawhub install @wufengsheng/element-plus-ui-vue3
+clawhub install @wufengsheng/uview-ui
+
+# 安装全部技能
+clawhub install @wufengsheng/element-ui-vue2 @wufengsheng/element-plus-ui-vue3 @wufengsheng/uview-ui
+
+# 查看已安装技能
+clawhub list
+
+# 卸载技能
+clawhub uninstall @wufengsheng/element-ui-vue2
+```
+
+### 方式二：OpenClaw CLI
+
 ```bash
 # 安装单个技能
 openclaw skills install @wufengsheng/<skill-name>
@@ -33,6 +61,10 @@ openclaw skills install @wufengsheng/uview-ui
 | 大小 | ~1.9 MB |
 
 ```bash
+# ClawHub
+clawhub install @wufengsheng/element-ui-vue2
+
+# OpenClaw
 openclaw skills install @wufengsheng/element-ui-vue2
 ```
 
