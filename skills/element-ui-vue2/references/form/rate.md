@@ -159,6 +159,4 @@ url: "https://element.eleme.cn/#/zh-CN/component/rate"
 
 Upload 上传 ColorPicker 颜色选择器
 
-  Update available: v1.8.0 → v1.8.4
-  Run: npm install -g @jackwener/opencli
 

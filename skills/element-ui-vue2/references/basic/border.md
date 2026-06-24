@@ -46,6 +46,4 @@ border-radius: 30px
 
 Typography 字体 Icon 图标
 
-  Update available: v1.8.0 → v1.8.4
-  Run: npm install -g @jackwener/opencli
 

@@ -2594,6 +2594,4 @@ ID
 
 Form 表单 Tag 标签
 
-  Update available: v1.8.0 → v1.8.4
-  Run: npm install -g @jackwener/opencli
 

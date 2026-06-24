@@ -286,6 +286,4 @@ DateTimePicker 由 DatePicker 和 TimePicker 派生，`Picker Options` 或者其
 
 DatePicker 日期选择器 Upload 上传
 
-  Update available: v1.8.0 → v1.8.4
-  Run: npm install -g @jackwener/opencli
 

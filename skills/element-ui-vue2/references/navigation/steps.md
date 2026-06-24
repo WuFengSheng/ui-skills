@@ -274,6 +274,4 @@ url: "https://element.eleme.cn/#/zh-CN/component/steps"
 
 Dropdown 下拉菜单 Dialog 对话框
 
-  Update available: v1.8.0 → v1.8.4
-  Run: npm install -g @jackwener/opencli
 

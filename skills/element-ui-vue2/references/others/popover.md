@@ -226,6 +226,4 @@ click 激活
 
 Tooltip 文字提示 Popconfirm 气泡确认框
 
-  Update available: v1.8.0 → v1.8.4
-  Run: npm install -g @jackwener/opencli
 

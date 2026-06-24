@@ -338,6 +338,4 @@ Element 提供的排版模式有时候并不满足要求，当您想要用自己
 
 Avatar 头像 Empty 空状态
 
-  Update available: v1.8.0 → v1.8.4
-  Run: npm install -g @jackwener/opencli
 

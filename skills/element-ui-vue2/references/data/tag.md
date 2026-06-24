@@ -230,6 +230,4 @@ Plain 标签一 标签二 标签三 标签四 标签五
 
 Table 表格 Progress 进度条
 
-  Update available: v1.8.0 → v1.8.4
-  Run: npm install -g @jackwener/opencli
 

@@ -374,6 +374,4 @@ import 'element-ui/lib/theme-chalk/display.css';
 
 内置过渡动画 Container 布局容器
 
-  Update available: v1.8.0 → v1.8.4
-  Run: npm install -g @jackwener/opencli
 

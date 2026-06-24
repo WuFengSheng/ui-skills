@@ -212,6 +212,4 @@ url: "https://element.eleme.cn/#/zh-CN/component/input-number"
 
 Input 输入框 Select 选择器
 
-  Update available: v1.8.0 → v1.8.4
-  Run: npm install -g @jackwener/opencli
 

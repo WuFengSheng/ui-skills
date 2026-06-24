@@ -80,6 +80,4 @@ url: "https://element.eleme.cn/#/zh-CN/component/empty"
 
 Skeleton 骨架屏 Descriptions 描述列表
 
-  Update available: v1.8.0 → v1.8.4
-  Run: npm install -g @jackwener/opencli
 

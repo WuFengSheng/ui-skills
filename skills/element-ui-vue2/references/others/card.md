@@ -222,6 +222,4 @@ export default {
 
 Popconfirm 气泡确认框 Carousel 走马灯
 
-  Update available: v1.8.0 → v1.8.4
-  Run: npm install -g @jackwener/opencli
 

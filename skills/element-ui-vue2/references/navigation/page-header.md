@@ -55,6 +55,4 @@ url: "https://element.eleme.cn/#/zh-CN/component/page-header"
 
 Breadcrumb 面包屑 Dropdown 下拉菜单
 
-  Update available: v1.8.0 → v1.8.4
-  Run: npm install -g @jackwener/opencli
 

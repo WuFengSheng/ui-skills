@@ -315,6 +315,4 @@ Drawer 提供一个 `destroyOnClose` API, 用来在关闭 Drawer 时销毁子组
 
 InfiniteScroll 无限滚动
 
-  Update available: v1.8.0 → v1.8.4
-  Run: npm install -g @jackwener/opencli
 

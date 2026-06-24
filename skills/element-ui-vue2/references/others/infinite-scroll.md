@@ -115,6 +115,4 @@ url: "https://element.eleme.cn/#/zh-CN/component/infiniteScroll"
 
 Backtop 回到顶部 Drawer 抽屉
 
-  Update available: v1.8.0 → v1.8.4
-  Run: npm install -g @jackwener/opencli
 

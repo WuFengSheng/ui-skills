@@ -223,6 +223,4 @@ url: "https://element.eleme.cn/#/zh-CN/component/time-picker"
 
 Slider 滑块 DatePicker 日期选择器
 
-  Update available: v1.8.0 → v1.8.4
-  Run: npm install -g @jackwener/opencli
 

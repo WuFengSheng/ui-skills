@@ -187,6 +187,4 @@ Vue.component(CollapseTransition.name, CollapseTransition)
 
 自定义主题 Layout 布局
 
-  Update available: v1.8.0 → v1.8.4
-  Run: npm install -g @jackwener/opencli
 

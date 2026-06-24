@@ -223,6 +223,4 @@ url: "https://element.eleme.cn/#/zh-CN/component/collapse"
 
 Carousel 走马灯 Timeline 时间线
 
-  Update available: v1.8.0 → v1.8.4
-  Run: npm install -g @jackwener/opencli
 

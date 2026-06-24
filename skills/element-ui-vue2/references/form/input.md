@@ -828,6 +828,4 @@ export default {
 
 Checkbox 多选框 InputNumber 计数器
 
-  Update available: v1.8.0 → v1.8.4
-  Run: npm install -g @jackwener/opencli
 

@@ -160,6 +160,4 @@ ColorPicker 支持预定义颜色
 
 Rate 评分 Transfer 穿梭框
 
-  Update available: v1.8.0 → v1.8.4
-  Run: npm install -g @jackwener/opencli
 

@@ -246,6 +246,4 @@ import { Message } from 'element-ui';
 
 Loading 加载 MessageBox 弹框
 
-  Update available: v1.8.0 → v1.8.4
-  Run: npm install -g @jackwener/opencli
 

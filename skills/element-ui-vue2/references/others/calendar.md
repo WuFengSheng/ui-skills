@@ -534,6 +534,4 @@ url: "https://element.eleme.cn/#/zh-CN/component/calendar"
 
 Divider 分割线 Image 图片
 
-  Update available: v1.8.0 → v1.8.4
-  Run: npm install -g @jackwener/opencli
 

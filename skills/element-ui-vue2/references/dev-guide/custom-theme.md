@@ -159,6 +159,4 @@ Vue.use(ElementUI)
 
 国际化 内置过渡动画
 
-  Update available: v1.8.0 → v1.8.4
-  Run: npm install -g @jackwener/opencli
 

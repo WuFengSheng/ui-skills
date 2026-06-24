@@ -268,6 +268,4 @@ console.log(loadingInstance1 === loadingInstance2); // true
 
 Alert 警告 Message 消息提示
 
-  Update available: v1.8.0 → v1.8.4
-  Run: npm install -g @jackwener/opencli
 

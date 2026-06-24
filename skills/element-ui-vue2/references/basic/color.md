@@ -88,6 +88,4 @@ Transparent
 
 Container 布局容器 Typography 字体
 
-  Update available: v1.8.0 → v1.8.4
-  Run: npm install -g @jackwener/opencli
 

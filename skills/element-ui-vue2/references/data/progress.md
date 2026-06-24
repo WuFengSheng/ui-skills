@@ -215,6 +215,4 @@ Progress 组件可通过 `type` 属性来指定使用环形进度条，在环形
 
 Tag 标签 Tree 树形控件
 
-  Update available: v1.8.0 → v1.8.4
-  Run: npm install -g @jackwener/opencli
 

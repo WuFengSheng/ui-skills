@@ -71,6 +71,4 @@ Scroll down to see the bottom-right button.
 
 Image 图片 InfiniteScroll 无限滚动
 
-  Update available: v1.8.0 → v1.8.4
-  Run: npm install -g @jackwener/opencli
 

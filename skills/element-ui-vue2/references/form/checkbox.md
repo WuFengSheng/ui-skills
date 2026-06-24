@@ -330,6 +330,4 @@ url: "https://element.eleme.cn/#/zh-CN/component/checkbox"
 
 Radio 单选框 Input 输入框
 
-  Update available: v1.8.0 → v1.8.4
-  Run: npm install -g @jackwener/opencli
 

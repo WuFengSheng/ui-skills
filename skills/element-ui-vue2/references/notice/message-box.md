@@ -354,6 +354,4 @@ import { MessageBox } from 'element-ui';
 
 Message 消息提示 Notification 通知
 
-  Update available: v1.8.0 → v1.8.4
-  Run: npm install -g @jackwener/opencli
 

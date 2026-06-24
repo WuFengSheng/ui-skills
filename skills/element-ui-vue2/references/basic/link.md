@@ -90,6 +90,4 @@ url: "https://element.eleme.cn/#/zh-CN/component/link"
 
 Button 按钮 Radio 单选框
 
-  Update available: v1.8.0 → v1.8.4
-  Run: npm install -g @jackwener/opencli
 

@@ -2073,6 +2073,4 @@ hover 触发子菜单
 
 Select 选择器 Switch 开关
 
-  Update available: v1.8.0 → v1.8.4
-  Run: npm install -g @jackwener/opencli
 

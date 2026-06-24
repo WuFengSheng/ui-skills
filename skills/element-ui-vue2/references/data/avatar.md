@@ -191,6 +191,4 @@ scale-down ![](https://fuss10.elemecdn.com/e/5d/4a731a90594a4af544c0c25941171jpe
 
 Badge 标记 Skeleton 骨架屏
 
-  Update available: v1.8.0 → v1.8.4
-  Run: npm install -g @jackwener/opencli
 

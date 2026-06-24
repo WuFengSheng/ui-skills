@@ -346,6 +346,4 @@ import { Notification } from 'element-ui';
 
 MessageBox 弹框 NavMenu 导航菜单
 
-  Update available: v1.8.0 → v1.8.4
-  Run: npm install -g @jackwener/opencli
 

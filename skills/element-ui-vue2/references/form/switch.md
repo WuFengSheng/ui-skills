@@ -158,6 +158,4 @@ url: "https://element.eleme.cn/#/zh-CN/component/switch"
 
 Cascader 级联选择器 Slider 滑块
 
-  Update available: v1.8.0 → v1.8.4
-  Run: npm install -g @jackwener/opencli
 

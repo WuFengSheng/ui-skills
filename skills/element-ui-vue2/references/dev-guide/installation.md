@@ -37,6 +37,4 @@ npm i element-ui -S
 
 更新日志 快速上手
 
-  Update available: v1.8.0 → v1.8.4
-  Run: npm install -g @jackwener/opencli
 

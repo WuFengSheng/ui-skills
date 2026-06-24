@@ -686,6 +686,4 @@ url: "https://element.eleme.cn/#/zh-CN/component/select"
 
 InputNumber 计数器 Cascader 级联选择器
 
-  Update available: v1.8.0 → v1.8.4
-  Run: npm install -g @jackwener/opencli
 

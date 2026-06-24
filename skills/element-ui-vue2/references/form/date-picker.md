@@ -524,6 +524,4 @@ url: "https://element.eleme.cn/#/zh-CN/component/date-picker"
 
 TimePicker 时间选择器 DateTimePicker 日期时间选择器
 
-  Update available: v1.8.0 → v1.8.4
-  Run: npm install -g @jackwener/opencli
 

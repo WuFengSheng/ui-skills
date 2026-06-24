@@ -365,6 +365,4 @@ Transfer 的数据通过 `data` 属性传入。数据需要是一个对象数组
 
 ColorPicker 颜色选择器 Form 表单
 
-  Update available: v1.8.0 → v1.8.4
-  Run: npm install -g @jackwener/opencli
 

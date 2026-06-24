@@ -317,6 +317,4 @@ Alert 组件提供了两个不同的主题：`light`和`dark`。
 
 Statistic 统计数值 Loading 加载
 
-  Update available: v1.8.0 → v1.8.4
-  Run: npm install -g @jackwener/opencli
 

@@ -291,6 +291,4 @@ Click 指示器触发
 
 Card 卡片 Collapse 折叠面板
 
-  Update available: v1.8.0 → v1.8.4
-  Run: npm install -g @jackwener/opencli
 

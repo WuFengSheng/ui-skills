@@ -113,6 +113,4 @@ url: "https://element.eleme.cn/#/zh-CN/component/result"
 
 Descriptions 描述列表 Statistic 统计数值
 
-  Update available: v1.8.0 → v1.8.4
-  Run: npm install -g @jackwener/opencli
 

@@ -88,6 +88,4 @@ Popconfirm 的属性与 Popover 很类似，因此对于重复属性，请参考
 
 Popover 弹出框 Card 卡片
 
-  Update available: v1.8.0 → v1.8.4
-  Run: npm install -g @jackwener/opencli
 

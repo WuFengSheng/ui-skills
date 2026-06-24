@@ -44,6 +44,4 @@ url: "https://element.eleme.cn/#/zh-CN/guide/nav"
 
 适用于导航较少，页面篇幅较长的网站。
 
-  Update available: v1.8.0 → v1.8.4
-  Run: npm install -g @jackwener/opencli
 

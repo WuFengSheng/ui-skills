@@ -372,6 +372,4 @@ Main
 
 Layout 布局 Color 色彩
 
-  Update available: v1.8.0 → v1.8.4
-  Run: npm install -g @jackwener/opencli
 

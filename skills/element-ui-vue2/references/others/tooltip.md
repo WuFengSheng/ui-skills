@@ -201,6 +201,4 @@ tooltip 内不支持 disabled form 元素，参考[MDN](https://developer.mozill
 
 Dialog 对话框 Popover 弹出框
 
-  Update available: v1.8.0 → v1.8.4
-  Run: npm install -g @jackwener/opencli
 
