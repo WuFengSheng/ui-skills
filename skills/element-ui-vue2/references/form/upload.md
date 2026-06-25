@@ -8,6 +8,13 @@ url: "https://element.eleme.cn/#/zh-CN/component/upload"
 
 ## [¶](https://element.eleme.cn/#/zh-CN/component/upload#upload-shang-chuan) Upload 上传
 
+> ⚠️ **【安全警告 — 文件上传】**：`accept` 属性和 `before-upload` 钩子仅为**客户端校验，可被绕过**。服务端必须独立验证：
+> - 文件类型白名单（MIME + 扩展名双重校验）
+> - 文件大小上限限制
+> - 拒绝可执行文件（`*.exe`、`*.php`、`*.jsp`、`*.sh` 等）
+> - 使用随机文件名存储，避免路径遍历攻击
+> - 上传目录设置不可执行权限
+
 通过点击或者拖拽上传文件
 
 ### [¶](https://element.eleme.cn/#/zh-CN/component/upload#dian-ji-shang-chuan) 点击上传

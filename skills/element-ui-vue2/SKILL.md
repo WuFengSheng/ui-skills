@@ -361,3 +361,13 @@ export default {
 - [backtop](references/others/backtop.md) - Backtop 回到顶部
 - [infinite-scroll](references/others/infinite-scroll.md) - InfiniteScroll 无限滚动
 - [drawer](references/others/drawer.md) - Drawer 抽屉
+
+## 安全注意事项
+
+> ⚠️ **本技能为 UI 组件 API 参考文档，示例代码仅演示组件用法，未经生产安全审查。复制到生产环境前请完成以下加固：**
+
+1. **🔒 文件上传**：`el-upload` 组件的 `accept` 属性仅为客户端提示，**可被绕过**。服务端必须独立验证文件类型、大小和内容，拒绝可执行文件（`*.exe`、`*.php` 等），限制上传大小上限，使用随机文件名存储
+2. **🔒 XSS 防护**：使用 `v-html`、自定义渲染模板或动态插槽内容时，**必须**对用户输入做 HTML 实体转义，防止存储型 XSS 攻击
+3. **🔒 表单验证**：客户端 `el-form` 验证规则仅提升用户体验，**不可替代服务端校验**。敏感操作（密码修改、支付、权限变更）必须服务端二次验证
+4. **🔒 敏感数据**：密码输入框（`type="password"`）的数据在传输时必须使用 HTTPS，禁止在 URL 参数或日志中传递明文密码
+5. **🔒 第三方依赖**：Element UI 为饿了么开源项目，生产使用前应审查其依赖链的安全性，关注其[官方安全公告](https://github.com/ElemeFE/element/releases)
